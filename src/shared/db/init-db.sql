@@ -7,9 +7,9 @@ CREATE TABLE IF NOT EXISTS "users" (
 );
 INSERT INTO "users" ("id", "name", "email", "password") 
 	VALUES 
-	('9ae6f337-87c8-4c27-b36e-bbd10df2221f', 'Maria', 'Maria@mail.fast', 'secret_password'), 
-	('bb05ed83-cfcf-4690-a5e1-fd83f7b77edc', 'Peter', null , 'peterParker1999'),  
-	('59904ebf-7173-45fa-a752-8f833077e41c', 'Ilya', 'helloWorld@code.com', 'youBetterNotToKnowIt');
+	('9ae6f337-87c8-4c27-b36e-bbd10df2221f', 'Meroshini', 'meroshiniraja19@gmail.com', 'secret_password'), 
+	('bb05ed83-cfcf-4690-a5e1-fd83f7b77edc', 'Dev', null , 'peterParker1999'),  
+	('59904ebf-7173-45fa-a752-8f833077e41c', 'Vijay', 'helloWorld@code.com', 'youBetterNotToKnowIt');
 
 -- carts
 CREATE TABLE IF NOT EXISTS "carts" (
